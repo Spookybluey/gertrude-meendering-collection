@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Gertrude Meendering Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The life of Gertrude Meednering from birth to death.
+tagline: Moments, memories, and meaning: Preserving the life of Gertrude Meendering
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Showing the life of Gertrude Meendering"
+description: "Gertrude Meendering born in 1918 had many life experiences from going to college in the 1930s, living during the second world war, getting married, having children, and learning to live again without her husband. This digital collection offers a glimpse into the life she lived and some of the experiences she documented and wrote about. From birth to death: Gertrude Meendering."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Andrea Leusink
 
 ##########
 # COLLECTION SETTINGS
